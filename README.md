@@ -1,3 +1,16 @@
+#buscador-cep
+
+Projeto feito com HTML, CSS, Javascript e ReactJs. O código busca as informações do endereço pelo cep informado, para que seja possível fazer a pesquisa foi 
+utilizada a api do site 'viacep.com.br'.
+
+
+
+
+
+
+
+#Documentação React
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
