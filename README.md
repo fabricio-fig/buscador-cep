@@ -5,6 +5,7 @@ utilizada a api do site 'viacep.com.br'.
 
 
 
+![buscador](https://user-images.githubusercontent.com/59463323/154948302-b557d586-9177-4dcb-88d9-b3df0c989332.png)
 
 
 
